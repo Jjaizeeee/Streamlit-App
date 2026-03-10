@@ -52,45 +52,5 @@ pkce @ file:///work/perseverance-python-buildout/croot/pkce_1728388093137/work
 platformdirs @ file:///home/task_176235602006708/conda-bld/platformdirs_1762356487962/work
 pluggy @ file:///croot/pluggy_1733169602837/work
 protobuf==6.33.5
-pyarrow==23.0.1
-pycosat @ file:///croot/pycosat_1736868416091/work
-pycparser @ file:///home/task_175749564936714/conda-bld/pycparser_1757496040682/work
-pydantic @ file:///home/task_176408303339170/conda-bld/pydantic_1764083529211/work
-pydantic-settings @ file:///home/task_176416496069032/conda-bld/pydantic-settings_1764165165402/work
-pydantic_core @ file:///home/task_176400924785639/conda-bld/pydantic-core_1764009747660/work
-pydeck==0.9.1
-Pygments @ file:///home/task_176243137807904/conda-bld/pygments_1762431407645/work
-PyJWT @ file:///home/task_176433208417911/conda-bld/pyjwt_1764332098101/work
-PySocks @ file:///home/task_176175235884818/conda-bld/pysocks_1761753009495/work
-python-dateutil==2.9.0.post0
-python-dotenv @ file:///croot/python-dotenv_1745610241282/work
-pytz==2026.1.post1
-readchar @ file:///home/task_176061336965958/conda-bld/readchar_1760613437376/work
-referencing==0.37.0
-requests @ file:///home/task_176235918788486/conda-bld/requests_1762359591632/work
-rich @ file:///home/task_176037557612320/conda-bld/rich_1760375632000/work
-rpds-py==0.30.0
-ruamel.yaml @ file:///home/task_176253595903435/conda-bld/ruamel.yaml_1762535972567/work
-ruamel.yaml.clib @ file:///home/task_176253026438192/conda-bld/ruamel.yaml.clib_1762530278005/work
-SecretStorage @ file:///home/task_175793143758247/conda-bld/secretstorage_1757931467244/work
-semver @ file:///home/task_176190313959014/conda-bld/semver_1761903196627/work
-setuptools==80.9.0
-shellingham @ file:///home/task_176191203629823/conda-bld/shellingham_1761912204430/work
-six==1.17.0
-smmap==5.0.3
-streamlit==1.55.0
-tenacity==9.1.4
-toml==0.10.2
-tomli @ file:///croot/tomli_1753774587605/work
-tornado==6.5.4
-tqdm @ file:///home/task_176286304944547/conda-bld/tqdm_1762863349742/work
-truststore @ file:///home/task_176252074050774/conda-bld/truststore_1762520903993/work
-typer==0.20.0
-typer-slim==0.20.0
-typing-inspection @ file:///home/task_176061348700415/conda-bld/typing-inspection_1760614166875/work
-typing_extensions @ file:///croot/typing_extensions_1756280817316/work
-tzdata==2025.3
-urllib3 @ file:///home/task_176539908095521/conda-bld/urllib3_1765399198587/work
-watchdog==6.0.0
-wheel==0.45.1
-zstandard @ file:///home/task_175818846949212/conda-bld/zstandard_1758189073015/work
+streamlit
+pandas
